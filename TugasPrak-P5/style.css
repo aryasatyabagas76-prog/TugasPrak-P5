@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h2 {
+    text-align: center;
+}
+
+.produk {
+    background: white;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+button {
+    padding: 7px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+input {
+    padding: 8px;
+}
+
+#keranjang {
+    background: white;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+#hasil {
+    background: white;
+    padding: 15px;
+    margin-top: 20px;
+}
